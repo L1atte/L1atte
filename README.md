@@ -8,12 +8,6 @@
 - 🌱 I’m currently learning `Antlr4`, `Rollup` and `Vite`
 
 
-
-| ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L1atte&repo=unplugin-tiny-image&show_owner=true&theme=transparent&layout=compact) | ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L1atte&repo=ts-debounce-throttle&show_owner=true&theme=transparent&layout=compact) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L1atte&repo=algorithm&show_owner=true&theme=transparent&layout=compact) | ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L1atte&repo=algorithm&show_owner=true&theme=transparent&layout=compact) |
-| ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L1atte&repo=my-blog&show_owner=true&theme=transparent&layout=compact) |                                                              |
-
 <!--
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L1atte&repo=unplugin-tiny-image&show_owner=true&theme=transparent&layout=compact)
