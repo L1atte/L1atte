@@ -2,26 +2,10 @@
 
 ![L1atte's GitHub stats](https://readme-stats-w4t7.vercel.app/api?username=L1atte&show_icons=true&theme=transparent)
 
-
+![L1atte's GitHub stats](https://readme-stats-w4t7.vercel.app/api/top-langs/?username=L1atte)
 
 - 🔭 I'm Latte, a web developer who enjoys creating plugins, and tools during my free time.
-- 🌱 I’m currently learning `Antlr4`, `Rollup` and `Vite`
-
-
-<!--
-
-![Readme Card](https://readme-stats-w4t7.vercel.app/api/pin/?username=L1atte&repo=unplugin-tiny-image&show_owner=true&theme=transparent&layout=compact)
-
-![Readme Card](https://readme-stats-w4t7.vercel.app/api/pin/?username=L1atte&repo=ts-debounce-throttle&show_owner=true&theme=transparent&layout=compact)
-
-![Readme Card](https://readme-stats-w4t7.vercel.app/api/pin/?username=L1atte&repo=algorithm&show_owner=true&theme=transparent&layout=compact)
-
-![Readme Card](https://readme-stats-w4t7.vercel.app/api/pin/?username=L1atte&repo=emitter&show_owner=true&theme=transparent&layout=compact)
-
-![Readme Card](https://readme-stats-w4t7.vercel.app/api/pin/?username=L1atte&repo=my-blog&show_owner=true&theme=transparent&layout=compact)
-
--->
-
+- 🌱 I’m currently learning `Antlr4`, `Design Pattern` and `Vite`
 
 
 <!--
