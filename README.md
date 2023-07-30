@@ -2,7 +2,7 @@
 
 ![L1atte's GitHub stats](https://readme-stats-w4t7.vercel.app/api?username=L1atte&show_icons=true&theme=transparent)
 
-![L1atte's GitHub stats](https://readme-stats-w4t7.vercel.app/api/top-langs/?username=L1atte)
+![L1atte's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=L1atte&layout=compact&theme=transparent)
 
 - 🔭 I'm Latte, a web developer who enjoys creating plugins, and tools during my free time.
 - 🌱 I’m currently learning `Antlr4`, `Design Pattern` and `Vite`
